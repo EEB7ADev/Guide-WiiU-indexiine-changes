@@ -22,4 +22,4 @@ You can now eject, and insert your SD card into your console.
 1. Launch the Homebrew Launcher by launching the internet browser and waiting for a few seconds.
 1. Launch Indexiine-Installer.
 1. Press the B button to uninstall Indexiine.
-1. Check that your Wii U no longer automatically launches the Homebrew Launcher upon entering the Internet browser.
+1. Reboot your console, and check that your Wii U no longer automatically launches the Homebrew Launcher upon entering the Internet browser.
