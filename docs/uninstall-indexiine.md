@@ -11,9 +11,9 @@ This page will guide through the process of uninstalling Indexiine from your Wii
 ## Setting Up The SD Card
 First, ensure your SD card is formatted in FAT32. You can do so by using [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm).
 1. Extract the contents of the `homebrew_launcher.v1.5.zip` file to the root of your SD card.
-2. Extract the contents of the `indexiine-installer.zip` file to the root of your SD card.
-3. Extract the `payload.elf` file from the `payload.zip` file to the `wiiu` folder on your SD card.
-4. Copy the `backup-index.html` file to the `SD > wiiu > apps > indexiine-installer` folder on your SD card.
+1. Extract the contents of the `indexiine-installer.zip` file to the root of your SD card.
+1. Extract the `payload.elf` file from the `payload.zip` file to the `wiiu` folder on your SD card.
+1. Copy the `backup-index.html` file to the `SD > wiiu > apps > indexiine-installer` folder on your SD card.
 
 You can now eject, and insert your SD card into your console.
 
